@@ -225,7 +225,8 @@ class MyMole extends JFrame implements ActionListener, Runnable {
 //end
 public class Main {
 	public static void main(String[] args) {
-		MyMole game = new MyMole("두더지게임");
+		MyMole game = new MyMole("두더지게임");;;;
+		/////////
 	}
 }
 
